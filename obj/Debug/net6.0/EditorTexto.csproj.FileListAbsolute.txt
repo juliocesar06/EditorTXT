@@ -1,0 +1,15 @@
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\bin\Debug\net6.0\EditorTexto.exe
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\bin\Debug\net6.0\EditorTexto.deps.json
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\bin\Debug\net6.0\EditorTexto.runtimeconfig.json
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\bin\Debug\net6.0\EditorTexto.dll
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\bin\Debug\net6.0\EditorTexto.pdb
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfo.cs
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.dll
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\refint\EditorTexto.dll
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.pdb
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\EditorTexto.genruntimeconfig.cache
+C:\Users\Julio\Documents\programaçao\cSharp\EditorTexto\obj\Debug\net6.0\ref\EditorTexto.dll
